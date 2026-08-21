@@ -6,5 +6,6 @@
         <li><a href="https://dev.to/destruti" target="_blank">📝 Blog Page</a></li>
         <li><a href="/graduations/">🚀 Graduations</a></li>
         <li><a href="/certificates/">♻️ Certificates</a></li>
+        <li><a href="mailto:limaedu@gmail.com">📧 My Email</a></li>
     </ul>
 </div>
