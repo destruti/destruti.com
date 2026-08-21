@@ -1,9 +1,29 @@
 [
     {
+        "title": "Writing for the Dual-Audience: The &quot;Answer-First&quot; Structure That AI and Humans Both Love (Part 2/5)",
+        "link": "https://dev.to/destruti/writing-for-the-dual-audience-the-answer-first-structure-that-ai-and-humans-both-love-part-25-jp",
+        "subtitle": "Traditional web content is often written like a mystery novel,",
+        "posted_at": "2026-08-21",
+        "hashtags": [
+            {
+                "tag": "seo"
+            },
+            {
+                "tag": "aeo"
+            },
+            {
+                "tag": "ai"
+            },
+            {
+                "tag": "contentstrategy"
+            }
+        ]
+    },
+    {
         "title": "SEO is No Longer Enough: Welcome to the Age of Answer Engine Optimization (AEO) (Part 1/5)",
         "link": "https://dev.to/destruti/seo-is-no-longer-enough-welcome-to-the-age-of-answer-engine-optimization-aeo-part-15-28ip",
         "subtitle": "A deep dive into how search is changing with AI.",
-        "posted_at": "2026/08/21",
+        "posted_at": "2026-08-20",
         "hashtags": [
             {
                 "tag": "seo"
@@ -16,26 +36,6 @@
             },
             {
                 "tag": "aioverviews"
-            }
-        ]
-    },
-    {
-        "title": "SEO is No Longer Enough: Welcome to the Age of Answer Engine Optimization (AEO) (Part 2/5)",
-        "link": "https://dev.to/destruti/seo-is-no-longer-enough-welcome-to-the-age-of-answer-engine-optimization-aeo-part-15-28ip",
-        "subtitle": "A deep dive into how search is changing with AI.",
-        "posted_at": "2026/08/22",
-        "hashtags": [
-            {
-                "tag": "111"
-            },
-            {
-                "tag": "222"
-            },
-            {
-                "tag": "333"
-            },
-            {
-                "tag": "444"
             }
         ]
     }
