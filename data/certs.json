@@ -45,7 +45,7 @@
         "issued": "Issued May 2018",
         "skills": "Scrum, Agile, Project Management",
         "credential_id": "625809",
-        "link": "/certificates/img/scrum-destruti.png"
+        "link": "https://destruti.com/certificates/pdfs/HubSpot-Sales-Software-Eduardo-Destruti-2018-2019.pdf"
     },
     {
         "image": "/certificates/img/hubspot-destruti.png",
@@ -53,6 +53,6 @@
         "issued": "Issued May 2018",
         "skills": "Inbound Sales, Sales Software, CRM Software",
         "credential_id": null,
-        "link": "/certificates/img/hubspot-destruti.png"
+        "link": "https://destruti.com/certificates/pdfs/SCRUMstudy-Eduardo-Destruti-2018.pdf"
     }
 ]
