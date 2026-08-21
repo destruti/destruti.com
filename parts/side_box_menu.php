@@ -3,6 +3,7 @@
         <li><a href="https://www.linkedin.com/in/eduardodestruti/" target="_blank">🔵 LinkedIn Page</a></li>
         <li><a href="https://www.instagram.com/elimaedu/" target="_blank">📷 Instagram Page</a></li>
         <li><a href="https://github.com/destruti/" target="_blank">🐈 Github Page</a></li>
+        <li><a href="https://dev.to/destruti" target="_blank">📝 Blog Page</a></li>
         <li><a href="/graduations/">🚀 Graduations</a></li>
         <li><a href="/certificates/">♻️ Certificates</a></li>
     </ul>

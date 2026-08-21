@@ -27,10 +27,6 @@
             <div class="row">
 
                 <div class="col-md-12">
-                    <h1>GRAD</h1>
-                </div>
-
-                <div class="col-md-12">
                     <table class="table" style="width:100%;">
                         <tr>
                             <td style="width:50%;">
