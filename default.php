@@ -14,47 +14,41 @@
 
     <div class="main-container">
 
-        <!-- Cartão principal do perfil -->
-        <div class="profile-card">
-            <div class="avatar-container">
-                <img src="/img/destruti_avatar.webp" alt="Eduardo Destruti Avatar">
-            </div>
-            <h1>Eduardo Destruti</h1>
-            <p>Married to Fernanda; father of Manuela, Maria Eduarda, and Zoey.</p>
-            <div class="profile-meta">
-                <span>📍 Tyler, TX - USA 🇺🇸</span>
-                <span>Married to Fernanda; father of Manuela, Maria Eduarda, and Zoey.</span>
-            </div>
-        </div>
+        <?php require_once 'parts/presentation.php'; ?>
 
-        <!-- Grade de Conteúdo (Sidebar + Post) -->
         <div class="content-grid">
 
-            <!-- Coluna da Esquerda -->
             <div class="sidebar-column">
                 <?php require_once 'parts/side_box_presentation.php'; ?>
                 <?php require_once 'parts/side_box_menu.php'; ?>
             </div>
 
-            <!-- Coluna da Direita (Card do Post) -->
             <div class="post-card">
-                <div class="post-author-row">
-                    <img src="https://media2.dev.to/dynamic/image/width=90,height=90,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F4087198%2F4203d7cf-d029-46d1-9d7a-d9724e89dc45.png"
-                        alt="Eduardo Destruti">
-                    <div class="author-info">
-                        <div class="author-name">Eduardo Destruti</div>
-                        <div class="post-date">21 de ago.</div>
+
+                <?php
+
+                $json_data = file_get_contents('data/posts.json');
+                $posts = json_decode($json_data, true);
+                foreach ($posts as $post) {
+                    ?>
+
+                    <a href="<?php echo $post['link']; ?>" target="_blank" class="post-title">
+                        <?php echo $post['title']; ?>
+                    </a>
+
+                    <div class="post-tags">
+                        <?php foreach ($post['hashtags'] as $hashtag) { ?>
+                            <a href="#" class="tag">#<?php echo $hashtag['tag']; ?></a>
+                        <?php } ?>
                     </div>
-                </div>
 
-                <a href="https://dev.to/destruti/seo-is-no-longer-enough-welcome-to-the-age-of-answer-engine-optimization-aeo-part-15-28ip"
-                    target="_blank" class="post-title">
-                    SEO is No Longer Enough: Welcome to the Age of Answer Engine Optimization (AEO) (Part 1/5)
-                </a>
+                    <div class="post-footer">
+                    </div>
 
-                <div class="post-footer">
-                    <span>Shifting your focus from winning a click to earning an AI citation.</span>
-                </div>
+                <?php } ?>
+
+
+
             </div>
 
         </div>

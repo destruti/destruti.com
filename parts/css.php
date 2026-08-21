@@ -223,7 +223,8 @@
         font-size: 0.85rem;
         color: #717171;
         border-top: 1px solid #f5f5f5;
-        padding-top: 12px;
+        padding-top: 6px;
+        padding-bottom: 22px;
     }
 
     .comment-btn {
