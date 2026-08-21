@@ -16,10 +16,7 @@ git add .
 git commit -m "$COMMIT_MSG"
 
 # Faz o push para o repositório de prod
-git push prod main
-
-# Faz o push para o repositório remoto (branch atual)
-git push origin main
+git push
 
 # Mensagem de conclusão
 echo "Push realizado com sucesso! ("$COMMIT_MSG")"
