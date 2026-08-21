@@ -35,8 +35,8 @@
                     <a href="<?php echo $post['link']; ?>" target="_blank" class="post-title">
                         <?php echo $post['title']; ?>
                         <br />
-                        <span style="font-size: 12px; color: #666;">
-                            Posted on
+                        <span style="font-size: 12px; color: #4a4a4aff;">
+                            <?php echo $post['subtitle']; ?>, posted on
                             <?php echo date('M-d (Y)', strtotime($post['posted_at'])); ?>
                         </span>
                     </a>
@@ -44,7 +44,7 @@
                     <div class="post-tags">
                         <?php foreach ($post['hashtags'] as $hashtag) { ?>
                             <a href="#" class="tag">#<?php echo $hashtag['tag']; ?></a>
-                            <?php } ?>
+                        <?php } ?>
                     </div>
                     <div class="post-footer">
                     </div>
