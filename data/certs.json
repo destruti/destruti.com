@@ -1,0 +1,58 @@
+[
+    {
+        "image": "/certificates/img/2026_hs_aeo_certificate.png",
+        "title": "AEO Fundamentals",
+        "issued": "Issued Aug 2026",
+        "skills": "AEO, Google Search, LMM",
+        "credential_id": null,
+        "link": "https://app.hubspot.com/academy/achievements/j8qy1dql/en/1/eduardo-destruti/aeo-fundamentals"
+    },
+    {
+        "image": "/certificates/img/3YWDWHOW3UOR.png",
+        "title": "Coursera - PHP Development with ChatGPT: Practical Web Development",
+        "issued": "Issued Jan 2025",
+        "skills": "PHP Programming, ChatGPT",
+        "credential_id": "3YWDWHOW3UOR",
+        "link": "https://www.coursera.org/account/accomplishments/verify/3YWDWHOW3UOR"
+    },
+    {
+        "image": "/certificates/img/MMH2R357HXRT.png",
+        "title": "Duke - MySQL for Data Engineering",
+        "issued": "Issued Jan 2025",
+        "skills": "Python Programming, Information Engineering, Linux, MySQL, Bash",
+        "credential_id": "MMH2R357HXRT",
+        "link": "https://www.coursera.org/account/accomplishments/verify/MMH2R357HXRT"
+    },
+    {
+        "image": "/certificates/img/NOM9N8XSBMU0.png",
+        "title": "IBM - Developing Back-End Apps with Node.js and Express",
+        "issued": "Issued Dec 2024",
+        "skills": "NodeJs, Express, EJS, Linux",
+        "credential_id": "NOM9N8XSBMU0",
+        "link": "https://www.coursera.org/account/accomplishments/verify/NOM9N8XSBMU0"
+    },
+    {
+        "image": "/certificates/img/GX2LWC58D9OC.png",
+        "title": "Duke - Object-Oriented Programming in Python",
+        "issued": "Issued Dec 2024",
+        "skills": "Software Engineering, Computer Programming, Python Programming, Object Oriented CSS, Inheritance Patterns",
+        "credential_id": "GX2LWC58D9OC",
+        "link": "https://www.coursera.org/account/accomplishments/verify/GX2LWC58D9OC"
+    },
+    {
+        "image": "/certificates/img/scrum-destruti.png",
+        "title": "SCRUMstudy - Scrum Fundamentals Certified",
+        "issued": "Issued May 2018",
+        "skills": "Scrum, Agile, Project Management",
+        "credential_id": "625809",
+        "link": "/certificates/img/scrum-destruti.png"
+    },
+    {
+        "image": "/certificates/img/hubspot-destruti.png",
+        "title": "HubSpot Sales Software",
+        "issued": "Issued May 2018",
+        "skills": "Inbound Sales, Sales Software, CRM Software",
+        "credential_id": null,
+        "link": "/certificates/img/hubspot-destruti.png"
+    }
+]
