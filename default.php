@@ -21,14 +21,20 @@
         }
 
         h1 {
-            font-size: 2rem;
+            font-size: 3rem;
             margin: 0;
         }
     </style>
 </head>
 
 <body>
-    <h1>Manu Duda Zoey</h1>
+    <h1>
+        manu
+        <br />
+        duda
+        <br />
+        Zoey
+    </h1>
 </body>
 
 </html>
