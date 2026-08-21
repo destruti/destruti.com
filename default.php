@@ -280,10 +280,8 @@
 
             <!-- Coluna da Esquerda -->
             <div class="sidebar-column">
-                <div class="sidebar-box">
-                    <h3>Currently learning</h3>
-                    <p>CTO Stuff</p>
-                </div>
+
+                <?php require_once 'parts/side_box_1.php'; ?>
 
                 <div class="sidebar-box">
                     <ul class="stats-list">
@@ -311,8 +309,7 @@
                 </a>
 
                 <div class="post-footer">
-                    <button class="comment-btn">💬 Add Comment</button>
-                    <span>2 min read</span>
+                    <span>Shifting your focus from winning a click to earning an AI citation.</span>
                 </div>
             </div>
 
