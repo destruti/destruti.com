@@ -1,9 +1,17 @@
 [
     {
+        "image": "/certificates/img/2026_HS_data_integrations_certification.png",
+        "title": "Data Integrations Certification",
+        "issued": "Issued Sep 2026",
+        "skills": "HubSpot, API, Integrations, Json, HubSpotDeveloper",
+        "credential_id": "jkmsnp6d",
+        "link": "https://app.hubspot.com/academy/achievements/jkmsnp6d/en/1/eduardo-destruti/hubspot-data-integrations-certified"
+    },
+    {
         "image": "/certificates/img/2026_hs_aeo_certificate.png",
         "title": "AEO Fundamentals",
         "issued": "Issued Aug 2026",
-        "skills": "AEO, Google Search, LMM",
+        "skills": "HubSpot, AEO, Google Search, LMM",
         "credential_id": "j8qy1dql",
         "link": "https://app.hubspot.com/academy/achievements/j8qy1dql/en/1/eduardo-destruti/aeo-fundamentals"
     },
@@ -51,7 +59,7 @@
         "image": "/certificates/img/hubspot-destruti.png",
         "title": "HubSpot Sales Software",
         "issued": "Issued May 2018",
-        "skills": "Inbound Sales, Sales Software, CRM Software",
+        "skills": "HubSpot, Inbound Sales, Sales Software, CRM Software",
         "credential_id": null,
         "link": "https://destruti.com/certificates/pdfs/SCRUMstudy-Eduardo-Destruti-2018.pdf"
     }
