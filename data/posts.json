@@ -1,5 +1,45 @@
 [
     {
+        "title": "Architecture and Inner Workings of AP2 (Agent Payments Protocol)",
+        "link": "https://dev.to/destruti/architecture-and-inner-workings-of-ap2-agent-payments-protocol-1nkn",
+        "subtitle": "a practical blueprint for implementing AP2",
+        "posted_at": "2026-10-20",
+        "hashtags": [
+            {
+                "tag": "ai"
+            },
+            {
+                "tag": "ap2"
+            },
+            {
+                "tag": "security"
+            },
+            {
+                "tag": "agents"
+            }
+        ]
+    },
+    {
+        "title": "Agentic Payments Are Coming: What the AP2 Protocol Means for the Future of Software",
+        "link": "https://dev.to/destruti/agentic-payments-are-coming-what-the-ap2-protocol-means-for-the-future-of-software-37gp",
+        "subtitle": "Agentic Payments Are Coming",
+        "posted_at": "2026-10-20",
+        "hashtags": [
+            {
+                "tag": "ai"
+            },
+            {
+                "tag": "ap2"
+            },
+            {
+                "tag": "fintec"
+            },
+            {
+                "tag": "softwareengineering"
+            }
+        ]
+    },
+    {
         "title": "The AEO Measurement Pyramid: Proving Business Value in a Zero-Click Era (Part 5/5)",
         "link": "https://dev.to/destruti/the-aeo-measurement-pyramid-proving-business-value-in-a-zero-click-era-part-55-24d4",
         "subtitle": "Metrics that matter when clicks don't",
